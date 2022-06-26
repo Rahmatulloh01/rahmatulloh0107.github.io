@@ -1,0 +1,10 @@
+img{
+    height: 200%;
+    width: 200px;
+}
+
+nav ul li a:hover{
+    background-color:aqua;
+    transition: .5s;
+    border-radius: 3px;
+}
